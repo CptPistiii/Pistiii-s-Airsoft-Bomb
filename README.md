@@ -10,4 +10,7 @@ please refer me as the starter of this project.
 Again, my whole point of publishing this is so it reaches as many players for free, I do not need money/donations from this project.
 If you decide to make this airsoft bomb please share your progress with me or if you need help you can find me on reddit as u/Crays7, I will try to be as responsive as I can.
 
+I have also uploaded all the libraries you need, those are not mine and I do not take any credit from them.
+You also have a list with the components used.
+
 Enjoy! :D
