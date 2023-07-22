@@ -11,6 +11,7 @@ Again, my whole point of publishing this is so it reaches as many players for fr
 If you decide to make this airsoft bomb please share your progress with me or if you need help you can find me on reddit as u/Crays7, I will try to be as responsive as I can.
 
 I have also uploaded all the libraries you need, those are not mine and I do not take any credit from them.
+Here you can find the documentation for the lcd used by me: https://github.com/gitcnd/LCDWIKI_GUI/blob/master/Document/LCDWIKI%20GUI%20lib%20Manual.pdf
 You also have a list with the components used.
 
 Enjoy! :D
