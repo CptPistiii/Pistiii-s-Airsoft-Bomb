@@ -7,8 +7,8 @@ I tried to find a bomb already done on the internet, but unfortunately I had to 
 Currently I have made only 2 gamemodes: coalition and domination.
 
 Coalition: 
-Is a gamemode where one team plants the bomb by using any 4 digit password. After it is armed, the timer will start ticking and in the middle will be displayed the password 
-used to arm it and 3 random generated 4 digit passwords. When the wrong password is tried if it matche sone of the 3 fake ones, it will dissapear, the time will be halved and 
+Is a gamemode where one team plants the bomb by using any 4 digit password (recommended, do not create a password that starts with 0). After it is armed, the timer will start ticking and 
+in the middle will be displayed the password  used to arm it and 3 random generated 4 digit passwords. When the wrong password is tried if it matche sone of the 3 fake ones, it will dissapear, the time will be halved and 
 you will have 2 more times, fail one more time and the time will be halved again and the time will pass 5 times faster than usual. Fail one more time and the bomb "Explodes".
 If you use the correct password you will be greeted by the sweet message "Bomb has been diffused".
 
